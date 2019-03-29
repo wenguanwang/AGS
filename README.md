@@ -15,18 +15,27 @@ If you find our method useful in your research, please cite the following papers
 
 
 @InProceedings{Wang_2019_CVPR,
+
 author = {Wang, Wenguan and Song, Hongmei and Zhao, Shuyang and Shen, Jianbing and Zhao, Sanyuan and Hoi, Steven Chu Hong and Ling, Haibin},
+
 title = {Learning Unsupervised Video Object Segmentation through Visual Attention},
+
 booktitle = {CVPR},
+
 year = {2019}
+
 }
 
 
 
 @InProceedings{Song_2018_ECCV,
+
 author = {Song, Hongmei and Wang, Wenguan and Zhao, Sanyuan and Shen, Jianbing and Lam, Kin-Man},
+
 title = {Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection},
+
 booktitle = {ECCV},
+
 year = {2018}
 }
 
