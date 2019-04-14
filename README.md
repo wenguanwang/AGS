@@ -13,6 +13,8 @@ Caffe Implementation (v1) for
 
 5. Our results on DAVIS16, FBMS and Youtube can be find at 'seg_results.rar'.
 
+6. Human eye fixation data for DAVIS16, Youtube and Segtrackv2 can be found at https://drive.google.com/open?id=11LAg69lnCp7TfWFYjntPm4RK4KfgL8_Y.
+
 If you find our method useful in your research, please cite the following papers:
 
 
