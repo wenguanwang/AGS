@@ -21,15 +21,10 @@ If you find our method useful in your research, please cite the following papers
 
 
     @InProceedings{Wang_2019_CVPR,
-
     author = {Wang, Wenguan and Song, Hongmei and Zhao, Shuyang and Shen, Jianbing and Zhao, Sanyuan and Hoi, Steven Chu Hong and Ling, Haibin},
-
     title = {Learning Unsupervised Video Object Segmentation through Visual Attention},
-
     booktitle = {CVPR},
-
     year = {2019}
-
     }
 
 
