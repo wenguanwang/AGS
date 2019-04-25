@@ -34,4 +34,6 @@ If you find our method useful in your research, please cite the following papers
     year = {2018}
     }
 
+========================================================================
 
+Any comments, please email: wenguanwang.ai@gmail.com
