@@ -2,7 +2,7 @@ Caffe Implementation (v1) for
 
 #Learning Unsupervised Video Primary Object Segmentation through Visual Attention (CVPR19)
 
-[Wenguan Wang](https://sites.google.com/site/wenguanwangwwg/), Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi,  and Haibin Ling
+[Wenguan Wang](https://sites.google.com/view/wenguanwang), Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi,  and Haibin Ling
 - - -
 
 1. Please install our modified [caffe](https://github.com/maysina/PDB-ConvLSTM/blob/master/maycaffe-convlstm.rar) first. 
