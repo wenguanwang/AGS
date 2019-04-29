@@ -17,6 +17,10 @@ Caffe Implementation (v1) for
 
 6. Human eye fixation data for DAVIS16, Youtube and Segtrackv2 can be found at https://drive.google.com/open?id=11LAg69lnCp7TfWFYjntPm4RK4KfgL8_Y.
 
+7. Our model and fixation data can also be found at Baidu Pan
+https://pan.baidu.com/s/1hz6iVOAMW3QRORebK3mC3Q , extaction code: 6prn 
+
+
 If you find our method useful in your research, please cite the following papers:
 
 
