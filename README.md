@@ -1,6 +1,6 @@
 Caffe Implementation (v1) for
 
-#[Learning Unsupervised Video Primary Object Segmentation through Visual Attention (CVPR19)](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_through_Visual_Attention)
+[Learning Unsupervised Video Primary Object Segmentation through Visual Attention (CVPR19)](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_through_Visual_Attention)
 
 [Wenguan Wang](https://sites.google.com/view/wenguanwang), Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi,  and Haibin Ling
 - - -
