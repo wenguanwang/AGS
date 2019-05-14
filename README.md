@@ -13,11 +13,11 @@ Caffe Implementation (v1) for
 
 4. After you get the original results from the network, you can use './test/davis_crf.py' to process them.
 
-5. Our results on DAVIS16, FBMS and Youtube can be find at 'seg_results.rar'.
+5. Our results on DAVIS16, FBMS and Youtube can be find at 'seg_results.rar'. Saliency results can be found at https://drive.google.com/file/d/1qtr2h69MEkBYLno_KqYIuiwZGFYmSHr4/view?usp=sharing
 
 6. Human eye fixation data for DAVIS16, Youtube and Segtrackv2 can be found at https://drive.google.com/open?id=11LAg69lnCp7TfWFYjntPm4RK4KfgL8_Y.
 
-7. Our model and fixation data can also be found at Baidu Pan
+7. Our model, segmentation and saliency results, and fixation data can also be found at Baidu Pan
 https://pan.baidu.com/s/1hz6iVOAMW3QRORebK3mC3Q , extaction code: 6prn 
 
 
