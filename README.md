@@ -21,8 +21,7 @@ Caffe Implementation (v1) for
 https://pan.baidu.com/s/1hz6iVOAMW3QRORebK3mC3Q , extaction code: 6prn 
 
 
-If you find our method useful in your research, please cite the following papers:
-
+If you find our project helpful, your citations are highly appreciated:
 
     @InProceedings{Wang_2019_CVPR,
     author = {Wang, Wenguan and Song, Hongmei and Zhao, Shuyang and Shen, Jianbing and Zhao, Sanyuan and Hoi, Steven Chu Hong and Ling, Haibin},
@@ -36,6 +35,15 @@ If you find our method useful in your research, please cite the following papers
     title = {Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection},
     booktitle = {ECCV},
     year = {2018}
+    }
+
+We also have [one paper](https://github.com/carrierlxk/COSNet) regarding to unsupervised video object segmentation:
+
+    @InProceedings{Lu_2019_CVPR,
+    author = {Lu, Xiankai and Wang, Wenguan and Ma, Chao and Shen, Jianbing and Shao, Ling and Porikli, Fatih},
+    title = {See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks},
+    booktitle = {CVPR},
+    year = {2019}
     }
 
 ========================================================================
