@@ -41,7 +41,7 @@ Other related projects/papers:
 
 [See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks (CVPR19)](https://github.com/carrierlxk/COSNet) 
 
-[Saliency-Aware Geodesic Video Object Segmentation (CVPR15)] (https://github.com/wenguanwang/saliencysegment)
+[Saliency-Aware Geodesic Video Object Segmentation (CVPR15)](https://github.com/wenguanwang/saliencysegment)
 
 
 
