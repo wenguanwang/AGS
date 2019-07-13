@@ -37,14 +37,13 @@ If you find our project helpful, your citations are highly appreciated:
     year = {2018}
     }
 
-We also have [one paper](https://github.com/carrierlxk/COSNet) regarding to unsupervised video object segmentation:
+Other related projects/papers:
 
-    @InProceedings{Lu_2019_CVPR,
-    author = {Lu, Xiankai and Wang, Wenguan and Ma, Chao and Shen, Jianbing and Shao, Ling and Porikli, Fatih},
-    title = {See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks},
-    booktitle = {CVPR},
-    year = {2019}
-    }
+[See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks (CVPR19)](https://github.com/carrierlxk/COSNet) 
+
+[Saliency-Aware Geodesic Video Object Segmentation (CVPR15)] (https://github.com/wenguanwang/saliencysegment)
+
+
 
 ========================================================================
 
