@@ -2,7 +2,7 @@ Caffe Implementation (v1) for
 
 [Learning Unsupervised Video Object Segmentation through Visual Attention (CVPR19)](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_through_Visual_Attention)
 
-[Wenguan Wang](https://sites.google.com/view/wenguanwang), Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi,  and Haibin Ling
+[Paying Attention to Video Object Pattern Understanding (PAMI20)](https://www.researchgate.net/publication/338528322_Paying_Attention_to_Video_Object_Pattern_Understanding)
 - - -
 
 ===========================================================================
@@ -47,9 +47,13 @@ If you find our project helpful, your citations are highly appreciated:
 
 Other related projects/papers:
 
+[Zero-shot Video Object Segmentation via Attentive Graph Neural Networks (ICCV2019 Oral)](https://github.com/carrierlxk/AGNN)
+
 [See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks (CVPR19)](https://github.com/carrierlxk/COSNet) 
 
 [Saliency-Aware Geodesic Video Object Segmentation (CVPR15)](https://github.com/wenguanwang/saliencysegment)
+
+
 
 
 
