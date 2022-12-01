@@ -58,5 +58,4 @@ Other related projects/papers:
 
 
 ========================================================================
-
-Any comments, please email: wenguanwang.ai@gmail.com
+This repository is no longer maintained. 
